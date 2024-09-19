@@ -4,7 +4,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch 'main.ts' --exec 'npx tsc && node main.js'",
+    "start": "nodemon --watch 'main.ts' --exec 'npx tsc && node September/18.LargestNumber-AhmedElzayat/main.js'",
     "start:dev": "tsc -w & nodemon main.js"
   },
   "keywords": [],
