@@ -4,7 +4,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch 'TypeScript-AhmedElzayat.ts' --exec 'npx tsc && node September/24.FindtheLengthoftheLongestCommonPrefix/TypeScript-AhmedElzayat.js'"
+    "start": "nodemon --watch 'TypeScript-AhmedElzayat.ts' --exec 'npx tsc && node September/26.MyCalendarI/TypeScript-AhmedElzayat.js'"
   },
   "keywords": [],
   "author": "",
