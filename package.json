@@ -4,7 +4,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch 'TypeScript-AhmedElzayat.ts' --exec 'npx tsc && node September/30.DesignAStackWithIncrementOperation/TypeScript-AhmedElzayat.js'"
+    "start": "nodemon --watch 'TypeScript-AhmedElzayat.ts' --exec 'npx tsc && node October/1.CheckIfArrayPairsAreDivisibleByk/TypeScript-AhmedElzayat.js'"
   },
   "keywords": [],
   "author": "",
